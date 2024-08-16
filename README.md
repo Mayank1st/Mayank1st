@@ -14,14 +14,14 @@ I’m a Full Stack Web Developer with expertise in building and designing websit
 
 ## 📊 GitHub Stats
 
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=dark)
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank1st&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=dark)
 
 ## 🔝 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank1st&theme=dark&layout=compact)
 
 ## 🏆 GitHub Achievements
-- **Overall Contribution:** ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=react-dark)
+- **Overall Contribution:** ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Mayank1st&theme=react-dark)
 
 ## 🧩 Projects
 - **Sliced:** A project using Java, JavaFX, and CSS for a unique user experience.
