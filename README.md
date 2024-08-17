@@ -5,7 +5,7 @@ I’m a Full Stack Web Developer with expertise in building and designing websit
 
 - 🌱 I’m currently learning Java and JavaFX.
 - 💼 I’m open to collaborating on web development projects.
-- 📫 Reach me at [mayankdas99@gmail.com](mailto:mayankdas99@gmail.com)
+- 📫 Reach me at [mayankdas99@gmail.com](mailto:mayankdas99@gmail.com) and [https://www.linkedin.com/in/mayank1st/]
 
 ## 🛠️ Technologies & Tools
 - **Languages:** HTML, CSS, SCSS, JavaScript, Java, SQL
@@ -14,6 +14,7 @@ I’m a Full Stack Web Developer with expertise in building and designing websit
 
 ## Portfolio link
 - https://github.com/Mayank1st/Mayank1st.github.io
+- https://mayank1st-portfolio.netlify.app/
 
 ## 📊 GitHub Stats
 
@@ -22,9 +23,6 @@ I’m a Full Stack Web Developer with expertise in building and designing websit
 ## 🔝 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank1st&theme=dark&layout=compact)
-
-## 🏆 GitHub Achievements
-- **Overall Contribution:** ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Mayank1st&theme=react-dark)
 
 ## 🧩 Projects
 - **Sliced:** A project using Java, JavaFX, and CSS for a unique user experience.
