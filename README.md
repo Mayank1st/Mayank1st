@@ -10,7 +10,7 @@ I’m a Full Stack Web Developer with expertise in building and designing websit
 ## 🛠️ Technologies & Tools
 - **Languages:** HTML, CSS, SCSS, JavaScript, Java, SQL
 - **Frameworks & Libraries:** React, Node.js, Express.js, JavaFX
-- **Tools:** Git, Docker, JIRA, VS Code, Postman
+- **Tools:** Git,VS Code, Postman
 
 ## Portfolio link
 - https://github.com/Mayank1st/Mayank1st.github.io
