@@ -13,7 +13,6 @@ I’m a Full Stack Web Developer with expertise in building and designing websit
 - **Tools:** Git,VS Code, Postman
 
 ## Portfolio link
-- https://github.com/Mayank1st/Mayank1st.github.io
 - https://mayank1st-portfolio.netlify.app/
 
 ## 📊 GitHub Stats
